@@ -6,8 +6,8 @@ on:
       - master
     paths:
       - '.github/workflows/r2s_lienol_from_lean.yml'
-  schedule:
-    - cron: '09 08 * * *'
+#  schedule:
+#    - cron: '09 08 * * *'
 
 jobs:
 
